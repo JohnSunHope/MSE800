@@ -1,0 +1,4 @@
+click==8.3.2
+numpy @ file:///Users/ec2-user/croot/numpy_and_numpy_base_1775209333852/work/dist/numpy-2.4.4-cp311-cp311-macosx_12_0_arm64.whl#sha256=abfe80dc3a1c85fd244e082f7b4f459c0af4b6477430f3b0b47cb5d4892dd08e
+packaging==26.0
+pip-freezer==0.3.8
