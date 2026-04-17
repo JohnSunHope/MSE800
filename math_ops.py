@@ -1,6 +1,6 @@
 """
-Generating by Trae
-Debug by myself
+Generate by Trae
+Debug by ElbertS
 """
 
 import math
